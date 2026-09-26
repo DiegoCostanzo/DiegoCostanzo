@@ -12,7 +12,7 @@ Electronics engineer and **Python developer** with 4+ years building tools for s
 
 ### 🚀 Currently
 - Building public Python projects (coming soon)
-- Open to **full-time remote Python developer roles**
+- Open to **remote Python developer roles**
 
 ### 🌐 Client work — Web development
 I also build fast, responsive websites for small businesses and tourism projects (React, Vite, Tailwind CSS, deployed on GitHub Pages).
